@@ -2,8 +2,7 @@
 
 ## About Me
 - 🌎 Brazilian
-- 👨‍🎓 Undergraduate Information System student @ UNICAMP (6/8)
-- 👨‍💼 Counselor @ Atria Jr.
+- 👨‍🎓 Undergraduate Information System student @ UNICAMP (8/8)
 - 🧠 Currently learning Backend with NodeJs, DevOps and Python.
 - 📖 Open to learn new technologys
 
